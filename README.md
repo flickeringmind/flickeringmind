@@ -2,8 +2,8 @@
 # DevOps (Junior)   
 ## **Контакты**
  --- 
-Telegram: @flickering_mind
-E-mail: flickering.mind@ya.ru
+Telegram: @flickering_mind   
+E-mail: flickering.mind@ya.ru  
 ## Навыки   
  ---   
 **CI/CD**: Github Actions   
