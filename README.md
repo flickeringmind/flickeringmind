@@ -10,7 +10,7 @@ E-mail: flickering.mind@ya.ru
 **Контейнеризация и оркестрация:** Docker, Docker Compose   
 **ОС и скрипты:** Linux (базовые знания), Bash   
 **Сети:** Понимание TCP/IP, VLAN, NAT, DHCP, DNS, wireshark   
-**Безопасность: **firewall (Cisco ASA, Check Point, UserGate), основы ИБ, аудит   
+**Безопасность:** firewall (Cisco ASA, Check Point, UserGate), основы ИБ, аудит   
 **Иностранные языки:** Английский - А2/B1
 
 ## Опыт работы   
